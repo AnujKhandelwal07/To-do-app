@@ -1,7 +1,9 @@
 import functions
 import time
 """ from functions import get_todos, write_todos 
-Or import functions. we can use both to import functions file """
+Or import functions. we can use both to import functions file 
+ Cli -> Command line interface"""
+
 now = time.strftime("%b %d, %Y %H:%M:%S")
 print("It is", now)
 while True:
